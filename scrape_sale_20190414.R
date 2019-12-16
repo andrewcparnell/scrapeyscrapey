@@ -1,5 +1,5 @@
 # See if I can scrape daft
-# This one does rented accommodation
+# This one does for sale accommodation
 
 # Boiler plate code -------------------------------------------------------
 
